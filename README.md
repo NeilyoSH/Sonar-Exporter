@@ -4,7 +4,7 @@
 
 Sonar exporter is a exporter to get metrics of Sonar server, deployed on FSOFT environment.
 
-Sonar exporter has written in python3. It's tested in Sonar version 	6.7.5.38563
+Sonar exporter has written in python3. It's tested in Sonar version 	9.4
 
 *Note: We used **timestamp()** in **datetime** library not supported by python2, so make sure running Sonar exporter in python3 or newer*
 
@@ -44,3 +44,13 @@ SONAR_SERVER=http://sonar_server
 SONAR_USERNAME=example
 SONAR_PASSWORD=123456
 ```
+
+
+
+
+
+## Grafana Dashboard:
+
+https://grafana.com/grafana/dashboards/10763
+
+![img.png](img.png)
