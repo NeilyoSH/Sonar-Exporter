@@ -2,6 +2,10 @@
 
 [![Build Status](https://travis-ci.com/hieupmse05244/Sonar-Exporter.svg?branch=master)](https://travis-ci.com/hieupmse05244/Sonar-Exporter)
 
+### I forked this repository from https://github.com/akawork/Sonar-Exporter
+### add Sonarqube 9.4 Version Support
+
+
 Sonar exporter is a exporter to get metrics of Sonar server, deployed on FSOFT environment.
 
 Sonar exporter has written in python3. It's tested in Sonar version 	9.4
